@@ -1,4 +1,4 @@
-#📝 TodoTask App – Flutter
+📝 TodoTask App – Flutter
 
 TodoTask is a simple and efficient task management app that helps you organize your day and boost your productivity by prioritizing tasks.
 ✨ Features:
