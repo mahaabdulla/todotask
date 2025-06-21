@@ -4,7 +4,7 @@ TodoTask is a simple and efficient task management app that helps you organize y
 ✨ Features:
 
     ✅ Add, edit, and delete tasks with ease.
-
+    
     🎯 Sort tasks by priority (High, Medium, Low) to focus on what matters most.
 
     🎨 Color-coded tasks based on priority level for quick visual identification.
