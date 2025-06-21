@@ -11,6 +11,6 @@ TodoTask is a simple and efficient task management app that helps you organize y
 
     💾 Local data storage using SharedPreferences, so your tasks stay saved even after closing the app.
 
-    🔄 State management with Provider for smooth and reactive UI updates.
+    🔄 State management with Provider for smooth and reactive UI updates >
 
 A perfect app for those who seek simplicity, performance, and productivity. 
